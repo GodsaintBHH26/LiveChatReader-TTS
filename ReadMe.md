@@ -3,7 +3,9 @@
  2. Once installed, run the _Run.bat_ batch file. 
  3. Open a live stream.
  4. From the live stream url, select the ID after the _v=_ on that url. 
+
  ![An image highlighting the video ID](/video_id.png)
+    
  5. Copy that section, paste it on the sript and press enter.
  
 Now this script will start to read all the live chat messages out loud.
