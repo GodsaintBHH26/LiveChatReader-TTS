@@ -2,5 +2,5 @@
 echo Activating virtual environment...
 call venv\Scripts\activate
 echo Running script...
-python chatReader.py
+python chatReader_V1.py
 pause
